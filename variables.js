@@ -8,7 +8,11 @@ var x = canvas.width/2;
 var y = canvas.height-30;
 var dx = 2;
 var dy = -2;
+<<<<<<< HEAD
 var ballRadius = 22;
+=======
+var ballRadius = 18;
+>>>>>>> hotfix-001
 
 var paddleHeight = 25;
 var paddleWidth = 75;
